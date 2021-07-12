@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Juan Diego, and I'm a Computer Engineering Student. Currently, I'm working as a Software Developer at Salumedia, focused on e-Health.
+
 <!--
 **juandiegovqdev/juandiegovqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
