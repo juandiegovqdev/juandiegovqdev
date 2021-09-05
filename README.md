@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 #### Support Open Source Code
-ETH Address: 0x8E964Ef8BfB362fbFc18dfb2AAA4A7F6Db5e78e1
-BTC Address: 3PWtjGt4UTiUHvEmosEGeJRXgsmMbLT6M3
+- ETH Address: 0x8E964Ef8BfB362fbFc18dfb2AAA4A7F6Db5e78e1
+- BTC Address: 3PWtjGt4UTiUHvEmosEGeJRXgsmMbLT6M3
