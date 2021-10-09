@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-#### Stats
-
 ![Juan Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=juandiegovqdev)
 
 #### Support Open Source Code
