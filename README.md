@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Juan Diego, and I'm a Computer Engineering Student at University of Seville (Spain). Currently, I'm working as a Software Developer at Adhera Health, Inc., focused mainly on e-Health.
+My name is Juan Diego, and I'm a Computer Engineer (University of Seville, Spain).
 
 <!--
 **juandiegovqdev/juandiegovqdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
